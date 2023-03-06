@@ -1,27 +1,17 @@
-### Hi there 👋
+### skillset
 
-### Skillset
+- Main-lang : PHP (Laravel, FilamentPHP), Go
 
-- PHP : Laravel, FilamentPHP
-- Go
+- DB : MySQL, Postgres, Supabase (Postgres, auth), Firebase, MongoDB
 
-- DB : MySQL, Postgres, MongoDB, Supabase (Postgres, auth), Firebase
-
-- CSS : Tailwind, Materialize, Bootstrap
-
-- Side-lang : Javascript, TypeScript, Python, C++, C, Rust
-
-- Another Framework (I've learned) : Vue, React, NextJS, NuxtJS
+- Another Tech : TypeScript, Python, C++, C, Rust, Vue, React, NextJS, NuxtJS, NestJS, SocketIO, Prismic(HeadlessCMS), Tailwind, Materialize, Bootstrap
 
 - Serverless : Vercel
 
-- I've tried : NestJS, SocketIO, Prismic(HeadlessCMS)
+### wish
 
-### my-wish
+I've been roaming and living in several cities, with Cirebon as my hometown. I've lived in Jakarta, Semarang, and Jogjakarta, and I've also roamed through Purwokerto, Malang, Batu, Surabaya, and Bali. In the future, I would like to travel or even live in countries such as New Zealand, Switzerland, Austria, Finland, Norway, or live around the Alps mountains.
 
-I've been roaming and living in several cities, with Cirebon as my hometown. I've lived in Jakarta, Semarang, and Jogjakarta, and I've also roamed through Purwokerto, Malang, Batu, Surabaya, and Bali.
-
-In the future, I would like to travel or even live in countries such as New Zealand, Switzerland, Austria, Finland, Norway, or live around the Alps mountains.
 
 
 <!--
