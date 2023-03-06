@@ -3,7 +3,6 @@
 ### Skillset
 
 - PHP : Laravel, FilamentPHP
-
 - Go
 
 - DB : MySQL, Postgres, MongoDB, Supabase (Postgres, auth), Firebase
