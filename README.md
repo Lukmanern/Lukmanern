@@ -3,9 +3,9 @@
 
 ### Skillset
 
-- Main-lang : PHP (Laravel, FilamentPHP), Go (Fiber), NestJS
-- DB : MySQL, Postgres, Supabase, Firebase, MongoDB
-- Another : WebSocket, Swagger, Redis, Nginx-config, set-up VPS, etc
+- PHP (Laravel, FilamentPHP), Go (Fiber), NestJS
+- MySQL, Postgres, Redis, MongoDB
+- WebSocket, Swagger, Nginx, VPS, GCP
 
 ### Links
 
