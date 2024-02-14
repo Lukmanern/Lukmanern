@@ -3,7 +3,7 @@
 
 ### Skillset
 
-- PHP (Laravel, FilamentPHP), Go (Fiber), NestJS
+- PHP, Laravel, Go, JavaScript, NodeJS, NestJS
 - MySQL, Postgres, Redis, MongoDB
 - WebSocket, Swagger, Nginx, VPS, GCP
 
